@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 11, 2023, 4:32:53 PM
+    Author     : Wayt Turks
+*/
+
+.white-form{
+    -fx-background-color: #fff;
+}
+.other-form{
+	-fx-background-color: #006664;
+}
+
+.register-btn{
+-fx-background-color: transparent;
+-fx-border-color: #fff;
+-fx-border-width: 1px;
+-fx-text-fill: #fff;
+-fx-cursor: hand;
+}
+.register-btn:hover{
+-fx-background-color: #fff;
+-fx-text-fill: #000;
+}
+.closeBtn{
+-fx-background-color: transparent;
+-fx-cursor:hand;
+}
+.closeBtn:hover{
+-fx-background-color: #ee5363;
+}
+.loginBtn{
+    -fx-background-color: #006664;
+}
+.loginBtn:hover{
+    -fx-background-color: #0b9a96;
+}
